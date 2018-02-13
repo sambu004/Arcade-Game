@@ -1,15 +1,17 @@
-#Game instruction
+# Game instruction
 
 **To play this game please load _index.html_ file included with this folder.**
+            or
+ _click this [link]( https://sambu004.github.io/Arcade-Game/index.html)_
 
-##Key functions
+## Key functions
 
 - :arrow_up: for moving upwards
 - :arrow_down: for moving downwards
 - :arrow_right: for moving right
 - :arrow_left: for moving left
 
-###Game instructions
+### Game instructions
 
 - To win this game the player should move the doll near to water.
 - The player must avoid bugs inorder to move to water.
